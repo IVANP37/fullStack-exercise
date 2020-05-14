@@ -1,0 +1,9 @@
+/target
+/build
+#/package-lock.json
+**/node_modules
+*.log
+*.swp
+/.scannerwork
+
+.env
